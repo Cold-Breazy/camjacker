@@ -1,0 +1,8 @@
+IP                   : 41.150.193.151
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Kempton Park, South Africa, Africa
+GeoLocation(lat, lon): -26.0944083, 28.2292712
+Currency             : South African Rand
