@@ -4,7 +4,7 @@ camjacker is a Bash based script which is officially made for Phishing Front Cam
 
 ## Tool Screenshot
 
-![Alt text](https://raw.githubusercontent.com/Cold-Breazy/spyder/main/Screenshot_20220716-091914_Termux.jpg "screenshot")
+![Alt text](https://raw.githubusercontent.com/Cold-Breazy/camjacker/main/Screenshot_20220717-133509_Termux.jpg "screenshot")
 
 ## AVAILABLE ON :
 
